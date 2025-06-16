@@ -21,6 +21,8 @@ describe('GET /users', () => {
     });
 });
 
+
+
 describe('POST /users', () => {
     it('should create a new user', async () => {
         const newUser = { id: 3, name: 'Charlie' };

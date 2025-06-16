@@ -1,4 +1,4 @@
-// this file is only used if you want to run the app manually
+// this file is only used if you want to run the app manually to test
 const app = require('./app');
 
 app.listen(3000, () => {
